@@ -153,10 +153,40 @@ if __name__ == "__main__":
     print(f"El número total de contagiados para detntro de {dias} dias, es de: {contagiosNuncaLandia(poblacion, contagiados, dias)}")
 
 ```
-## PUNTO 7
+## PUNTO 7 - 8
 ### Aqui encuentras las funciones del repositorio (TALLER 1), pero en forma de función.
 ```py
 
+
+
+```
+## SISTEMA PIP
+### PIP - Es es el sistema que utiliza pyhton para gestionar sus paquetes de archivos, Permite instalar y gestionar bibliotecas y paquetes de software desarrollados por la comunidad de Python, así como también distribuciones específicas del lenguaje.
+
+### Con el siguiente codigo podrás instalar el paquete que quieras.
+```
+pip uninstall nombre_del_paquete
 ```
 
+### Con el siguiente codigo podrás instalar el paquete que desees. a contiación encontrarás una lista de los más populares
+    Requests
+        Una librería HTTP de Python que permite realizar peticiones web de manera sencilla y eficiente.
+    Pandas
+        Proporciona estructuras de datos flexibles y herramientas para el análisis de datos.
+    NumPy
+        Poderosa librería para el cálculo numérico y manipulación de arrays y matrices.
+    Matplotlib
+        Librería para la creación de gráficos y visualizaciones de datos en Python.
+    Django
+        Framework web de alto nivel para el desarrollo rápido y limpio.
+    Flask
+        Micro-framework web para Python simple y fácil de aprender.
+    Scikit-learn
+        Librería de aprendizaje automático de código abierto para Python.
+    TensorFlow
+        Plataforma de código abierto para aprendizaje automático y desarrollo de modelos de aprendizaje profundo.
+    PyTorch
+        Marco de trabajo de aprendizaje automático que facilita la creación y entrenamiento de modelos de aprendizaje profundo.
+    SQLAlchemy
+        Herramienta SQL y sistema de mapeo objeto-relacional (ORM) para Python.
 
